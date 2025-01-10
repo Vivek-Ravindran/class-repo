@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Vivek	
 Meta Front-End course
 
